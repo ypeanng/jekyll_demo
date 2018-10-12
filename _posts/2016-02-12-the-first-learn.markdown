@@ -4,17 +4,15 @@ title: The First
 date: 2016-10-12 15:32:24.000000000 +09:00
 ---
 
-#### What's this
+#### Hello pages
 
-[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-#### Usage
 
 ```bash
-$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
+$ git clone https://github.asdfasdfasdfas
+$ cd your_siteasdfasdf
+$ bundler installasdfas
+$ bundler exec jekyll servedfasdfasdfas
 ```
 
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
@@ -23,9 +21,9 @@ For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.
 
 #### Configuration
 
-All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
+All configuration asdfvasgvfaesrf be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
 
-#### Background image and avatar
+#### Background imageasdf and avatar
 
 You could replace the background and avatar image in `assets/images` folder to change them.
 
