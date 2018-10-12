@@ -6,16 +6,14 @@ date: 2018-10-12 15:32:24.000000000 +09:00
 
 #### Hello pages
 
-
-
-```bash
+``` bash
 $ git clone https://github.asdfasdfasdfas
 $ cd your_siteasdfasdf
 $ bundler installasdfas
 $ bundler exec jekyll servedfasdfasdfas
 ```
 
-Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
+Your site with `Zhaopeng Jekyll` enabled should be accessible in http://127.0.0.1:4000.
 
 For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
 
