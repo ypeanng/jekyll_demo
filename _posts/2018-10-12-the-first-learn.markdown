@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The First - Learn
-date: 2018-10-12 15:32:24.000000000 +09:00
+title: The First
+date: 2017-10-12 15:32:24.000000000 +09:00
 ---
 
 #### What's this
