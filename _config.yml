@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Corperation, description: My arbor, url: 'www.yundijie.com'}
+    - {title: Corperation, description: My Harbor, url: 'www.yundijie.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
