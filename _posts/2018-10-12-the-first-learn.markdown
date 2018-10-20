@@ -12,6 +12,7 @@ $ cd your_siteasdfasdf
 $ bundler installasdfas
 $ bundler exec jekyll servedfasdfasdfas
 ```
+"纯洁的微笑"的 [Spring技术博客](https://www.cnblogs.com/ityouknow) 
 
 Your site with `Zhaopeng Jekyll` enabled should be accessible in http://127.0.0.1:4000.
 
